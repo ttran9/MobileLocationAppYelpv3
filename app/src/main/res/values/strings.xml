@@ -15,7 +15,7 @@
     <string name="previousDialogMessage">Fetching previous business results!</string>
     <string name="nextDialogMessage">Fetching the next business results!</string>
 
-    <string name="GoogleAPIKey">AIzaSyBbw6q4E0TJMd9ADqH0tDNs0ORJTAwHENk</string>
-    <string name="yelpAccessToken">VH6MS9IfKMAl5wgm8OKgftKf0lEl6SzNV5D8yfjOGn7IBV0AjKl5WwyQ_nux1GtsXo1xKW5AWdN-o21snmM46hhYKKD0ag_GCPDWZle6ITUkamyZ0uxj9eMaY4qNV3Yx</string>
-    <string name="GoogleServerKey">AIzaSyD14wlty-RM_8IyGXVIHT0OT3pb9zcdCzg</string>
+    <string name="GoogleAPIKey"></string>
+    <string name="yelpAccessToken"></string>
+    <string name="GoogleServerKey"></string>
 </resources>
